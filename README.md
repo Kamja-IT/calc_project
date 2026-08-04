@@ -23,6 +23,11 @@ def mul(a, b):
 def divi(a, b):
     return a/b
 ```
+- 제곱
+```
+def square(a, b):
+    return a ** b
+```
 ###2. 개발자
 - 감사
 ----
