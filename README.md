@@ -27,3 +27,4 @@ def divi(a, b):
 - 감사
 ----
 감사
+Thank U :)
