@@ -10,6 +10,9 @@ def sub(a, b):
 def mul(a, b):
     return a * b
 
+def square(a, b):
+    return a ** b
+
 def mod(a, b):
     return a % b
 
