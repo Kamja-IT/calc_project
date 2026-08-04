@@ -27,3 +27,9 @@ def divi(a, b):
 - 감사
 ----
 감사
+<<<<<<< HEAD
+Thank U :)
+=======
+
+감사합니다:)
+>>>>>>> cb99bb5418f656ed106d7c5ecb3ac1e1421aa6c8
